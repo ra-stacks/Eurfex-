@@ -1,0 +1,4 @@
+# Replit run configuration
+run = "python3 -m http.server $PORT"
+
+entrypoint = "index.html"
